@@ -1,3 +1,5 @@
 print("Hello, World!")
 print("This is a sample Python script.")
 print("It demonstrates basic print functionality.")
+print("Feel free to modify and expand it as needed.")
+print("Goodbye, World!")
