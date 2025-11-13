@@ -7,3 +7,5 @@ print("End of the script.")
 print("This line has been added to the script.")
 print("Another line for demonstration purposes.")
 print("Final line of the script.")
+print("Script execution complete.")
+print("Thank you for using this script."
